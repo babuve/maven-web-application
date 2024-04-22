@@ -1,0 +1,35 @@
+devops ---
+
+----------
+
+
+devops tools --
+
+website--
+
+plan---applo
+
+desings--
+
+code---devoplers
+
+build--wesite
+test--
+
+release---
+deploy---
+
+monitor
+maintain------ main 
+
+
+code--tools
+build tools
+design tools\
+testing tools
+relese 
+
+
+
+
+
